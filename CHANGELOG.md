@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/bihealth/biocommons-bioutils-rs/compare/v0.1.2...v0.1.3) (2023-10-21)
+
+
+### Bug Fixes
+
+* moving files for include_bytes outside of lfs again ([#7](https://github.com/bihealth/biocommons-bioutils-rs/issues/7)) ([1613727](https://github.com/bihealth/biocommons-bioutils-rs/commit/16137275fc4154d986dc68c6a7ff0a0595320e09))
+
 ## [0.1.2](https://github.com/bihealth/biocommons-bioutils-rs/compare/v0.1.1...v0.1.2) (2023-10-21)
 
 
