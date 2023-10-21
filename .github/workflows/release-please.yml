@@ -22,6 +22,12 @@ jobs:
         with:
           lfs: true
 
+      - name: Enable auto-merge for Dependabot PRs
+        run: |
+          git status -s
+          ls -lhR
+          file src/assemblies/_data/*
+
       - name: Install stable toolchain
         uses: actions-rs/toolchain@v1
         if: ${{ steps.release.outputs.release_created }}
