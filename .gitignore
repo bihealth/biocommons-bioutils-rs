@@ -1,0 +1,10 @@
+perf.*
+
+/target
+/Cargo.lock
+
+*~
+.*.sw?
+/.vscode
+
+*.lock
