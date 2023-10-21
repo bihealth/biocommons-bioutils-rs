@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.4](https://github.com/bihealth/biocommons-bioutils-rs/compare/v0.1.3...v0.1.4) (2023-10-21)
+
+
+### Bug Fixes
+
+* force-release v0.1.4 ([#9](https://github.com/bihealth/biocommons-bioutils-rs/issues/9)) ([f1b6a4b](https://github.com/bihealth/biocommons-bioutils-rs/commit/f1b6a4bc09f55747f1dd6dc0b07e202162130bae))
+
 ## [0.1.3](https://github.com/bihealth/biocommons-bioutils-rs/compare/v0.1.2...v0.1.3) (2023-10-21)
 
 
