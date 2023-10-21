@@ -17,8 +17,10 @@ jobs:
           package-name: bioutils
           token: ${{ secrets.BOT_TOKEN }}
 
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         if: ${{ steps.release.outputs.release_created }}
+        with:
+          lfs: true
 
       - name: Install stable toolchain
         uses: actions-rs/toolchain@v1
