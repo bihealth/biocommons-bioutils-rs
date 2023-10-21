@@ -81,7 +81,7 @@ mod test {
 }
 
 // <LICENSE>
-// Copyright 2023 hgvs-rs Contributors
+// Copyright 2023 biocommons-bioutils-rs Contributors
 // Copyright 2014 Bioutils Contributors
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
